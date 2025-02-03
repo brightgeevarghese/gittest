@@ -3,6 +3,5 @@ public class Welcome {
         System.out.println("Welcome to my app!");
         System.out.println("Today's exciting deals are...");
         System.out.println("PayPal feature");
-        System.out.println("GPay");
     }
 }
