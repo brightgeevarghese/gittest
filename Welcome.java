@@ -5,5 +5,6 @@ public class Welcome {
         System.out.println("PayPal feature");
         System.out.println("Third party contributed a new feature");
         System.out.println("GPay");
+	System.out.println("Apple Pay");
     }
 }
